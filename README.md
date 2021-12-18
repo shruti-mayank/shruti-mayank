@@ -25,6 +25,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=shruti-mayank&show_icons=true&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-mayank&show_icons=true&theme=dracula&custom_title=My GitHub Stats" />
 </a>
+<br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-mayank&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-mayank&layout=compact&langs_count=10&theme=dracula" />
 </a>

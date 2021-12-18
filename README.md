@@ -31,26 +31,31 @@
 
 <h2 align="left">Show ❤️ By Starring Some Of My <a href='https://github.com/shruti-mayank?tab=repositories'><img align='center'  height="24" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=shruti-mayank&logoColor=blue" /></a></h2>
 
-### Languages and Tools:
+### Languages:
 
 <p align="left">
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/html.png" alt="html" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/css.png" alt="css" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/tailwind.png" alt="Tailwind Css" width="60" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/bootstrap.png" alt="Bootstrap" width="45" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/js.png" alt="Javascript" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/react.png" alt="React Js" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/node.png" alt="Node Js" width="55" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/php.png" alt="PHP" width="55" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/laravel.png" alt="Laravel" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/mysql.png" alt="mysql" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/c.png" alt="C" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/c++.png" alt="C++" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/intellij_idea.png" alt="intellij_idea" width="45" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/jupyter_notebook.png" alt="jupyter_notebook" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/pycharm.png" alt="pycharm" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/sublime_text.jpg" alt="sublime_text" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/vscode.png" alt="vscode" width="40" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/html.png" alt="html" width="50" height="50" style="padding-right: 5px;" /> &nbsp;&nbsp;
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/css.png" alt="css" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/tailwind.png" alt="Tailwind Css" width="70" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/bootstrap.png" alt="Bootstrap" width="45" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/js.png" alt="Javascript" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/react.png" alt="React Js" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/node.png" alt="Node Js" width="55" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/php.png" alt="PHP" width="55" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/laravel.png" alt="Laravel" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/mysql.png" alt="mysql" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/c.png" alt="C" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/c++.png" alt="C++" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
+</p>
+
+## Tools:
+
+<p align="left">
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/intellij_idea.png" alt="intellij_idea" width="45" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/jupyter_notebook.png" alt="jupyter_notebook" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/pycharm.png" alt="pycharm" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/sublime_text.jpg" alt="sublime_text" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
+  <img src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/vscode.png" alt="vscode" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
 </p>
 
 ### Contact me here :point_down:

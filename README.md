@@ -1,7 +1,5 @@
 ### Hey there, I'm [Shruti Mayank!](https://github.com/shruti-mayank) <img height="45px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/waving_hand.gif">
 
-<img align="right" alt="GIF" width="450px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/coding-gif.gif"/>
-
 <br>
 
 ## I am an enthusiastic and hardworking student :slightly_smiling_face:

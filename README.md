@@ -1,5 +1,5 @@
-### Hey there, I'm [Shruti Mayank!](https://github.com/shruti-mayank) <img height="45px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/waving_hand.gif">
-
+### Hey there, I'm [Shruti Mayank!](https://www.linkedin.com/in/shruti-mayank/) <img height="45px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/waving_hand.gif">
+![](https://komarev.com/ghpvc/?username=shruti-mayank&color=green)
 <br>
 
 ## I am an enthusiastic and hardworking student :slightly_smiling_face:

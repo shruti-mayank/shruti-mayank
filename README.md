@@ -20,13 +20,25 @@
 
 <br>
 
+### Badges :
+[![@shruti's Holopin board](https://holopin.me/shruti)](https://holopin.io/@shruti)
+<br>
+***
+<br>
+
 <a href="https://github-readme-stats.vercel.app/api?username=shruti-mayank&show_icons=true&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-mayank&show_icons=true&theme=dracula&custom_title=My GitHub Stats" />
 </a>
 <br>
+***
+<br>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-mayank&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-mayank&layout=compact&langs_count=10&theme=dracula" />
 </a>
+<br>
+***
+<br>
 
 <h2 align="left">Show ❤️ By Starring Some Of My <a href='https://github.com/shruti-mayank?tab=repositories'><img align='center'  height="24" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=shruti-mayank&logoColor=blue" /></a></h2>
 

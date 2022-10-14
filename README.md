@@ -1,5 +1,4 @@
 ### Hey there, I'm [Shruti Mayank!](https://www.linkedin.com/in/shruti-mayank/) <img height="45px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/waving_hand.gif">
-![](https://komarev.com/ghpvc/?username=shruti-mayank&color=green)
 <br>
 
 ## I am an enthusiastic and hardworking student :slightly_smiling_face:
@@ -84,6 +83,6 @@
 
 ### Visitors Count :eyes:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shruti-mayank)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shruti-mayank&color=green)
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/shruti-mayank/count.svg" alt ="Loading"> -->
